@@ -1,0 +1,197 @@
+[
+  {
+    "title": "The Honest Baker",
+    "story": "Tom found a lost wallet in the bakery. He was tempted to keep the money...",
+    "situations": [
+      {
+        "description": "Tom returned the wallet to the owner.",
+        "outcome": "Tom got praised by the bakery owner and received a free cake!"
+      },
+      {
+        "description": "Tom kept the money.",
+        "outcome": "Tom felt guilty and couldn't enjoy the money."
+      }
+    ],
+    "questions": [
+      {
+        "question": "If you found a wallet in a shop, what would you do?",
+        "options": ["Return it to the shopkeeper", "Keep it", "Ignore it"],
+        "correct": "Return it to the shopkeeper"
+      }
+    ]
+  },
+  {
+    "title": "A Hungry Stranger",
+    "story": "Tom was enjoying his cake when he saw a hungry child outside the bakery...",
+    "situations": [
+      {
+        "description": "Tom shared his cake with the hungry child.",
+        "outcome": "The child was very happy and thanked Tom."
+      },
+      {
+        "description": "Tom ignored the child and ate the cake alone.",
+        "outcome": "Tom felt bad afterward."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What would you do if you saw someone hungry?",
+        "options": ["Share food", "Ignore them", "Laugh at them"],
+        "correct": "Share food"
+      }
+    ]
+  },
+  {
+    "title": "The Missing Toy",
+    "story": "Tom went to the park and found a lost toy on a bench...",
+    "situations": [
+      {
+        "description": "Tom tried to find the owner of the toy.",
+        "outcome": "The owner was happy to get it back and thanked Tom."
+      },
+      {
+        "description": "Tom took the toy home without telling anyone.",
+        "outcome": "He felt guilty and couldn’t enjoy playing with it."
+      }
+    ],
+    "questions": [
+      {
+        "question": "If you find something that isn't yours, what should you do?",
+        "options": ["Find the owner", "Keep it", "Sell it"],
+        "correct": "Find the owner"
+      }
+    ]
+  },
+  {
+    "title": "Helping an Elderly Man",
+    "story": "Tom saw an old man struggling to cross the road...",
+    "situations": [
+      {
+        "description": "Tom helped the old man cross the road.",
+        "outcome": "The old man thanked Tom and blessed him."
+      },
+      {
+        "description": "Tom walked away and ignored him.",
+        "outcome": "Tom felt bad later."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What should you do if you see someone needing help?",
+        "options": ["Help them", "Ignore them", "Laugh at them"],
+        "correct": "Help them"
+      }
+    ]
+  },
+  {
+    "title": "The Cheating Friend",
+    "story": "Tom saw his friend copying answers in a test...",
+    "situations": [
+      {
+        "description": "Tom told his friend that cheating is wrong.",
+        "outcome": "His friend stopped cheating and thanked Tom for guiding him."
+      },
+      {
+        "description": "Tom ignored it and let his friend cheat.",
+        "outcome": "His friend got caught and was punished."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What should you do if you see someone cheating?",
+        "options": ["Tell them it's wrong", "Ignore it", "Help them cheat"],
+        "correct": "Tell them it's wrong"
+      }
+    ]
+  },
+  {
+    "title": "Standing Up for a Friend",
+    "story": "Tom saw his friend being bullied at school...",
+    "situations": [
+      {
+        "description": "Tom stood up for his friend and reported the bully.",
+        "outcome": "The teacher helped, and the bully apologized."
+      },
+      {
+        "description": "Tom stayed quiet and didn’t help.",
+        "outcome": "His friend felt sad and alone."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What would you do if your friend was being bullied?",
+        "options": ["Stand up for them", "Stay quiet", "Join the bully"],
+        "correct": "Stand up for them"
+      }
+    ]
+  },
+  {
+    "title": "A Chance to Cheat",
+    "story": "Tom found the answer sheet before his exam...",
+    "situations": [
+      {
+        "description": "Tom ignored it and studied honestly.",
+        "outcome": "Tom did well and felt proud."
+      },
+      {
+        "description": "Tom used it to cheat.",
+        "outcome": "He was caught and failed the test."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What should you do if you find test answers?",
+        "options": ["Ignore it", "Use it to cheat", "Sell it"],
+        "correct": "Ignore it"
+      }
+    ]
+  },
+  {
+    "title": "The Broken Window",
+    "story": "Tom accidentally broke a window while playing...",
+    "situations": [
+      {
+        "description": "Tom admitted his mistake and apologized.",
+        "outcome": "The owner forgave him and appreciated his honesty."
+      },
+      {
+        "description": "Tom ran away and didn't tell anyone.",
+        "outcome": "He felt guilty and was later caught."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What should you do if you break something by mistake?",
+        "options": ["Admit and apologize", "Run away", "Blame someone else"],
+        "correct": "Admit and apologize"
+      }
+    ]
+  },
+  {
+    "title": "The Lost Dog",
+    "story": "Tom found a lost dog in the street...",
+    "situations": [
+      {
+        "description": "Tom looked for the dog's owner and helped it.",
+        "outcome": "The owner was thankful and gave Tom a reward."
+      },
+      {
+        "description": "Tom ignored the dog and walked away.",
+        "outcome": "The dog was sad and lost."
+      }
+    ],
+    "questions": [
+      {
+        "question": "What should you do if you find a lost pet?",
+        "options": ["Look for the owner", "Ignore it", "Keep it"],
+        "correct": "Look for the owner"
+      }
+    ]
+  },
+  {
+    "title": "The Final Lesson",
+    "story": "After all his experiences, Tom learned the importance of honesty, kindness, and helping others.",
+    "situations": [],
+    "questions": []
+  }
+]

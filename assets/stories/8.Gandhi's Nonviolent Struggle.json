@@ -1,0 +1,57 @@
+{
+  "id": 8,
+  "title": "8.Gandhi's Nonviolent Struggle",
+  "description": "The inspiring story of Mahatma Gandhi and his philosophy of nonviolence, leading India to independence.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Mahatma Gandhi led India’s nonviolent struggle for independence, promoting peace and harmony even in the face of colonial oppression.",
+      "choices": [{ "option": "Join the nonviolent struggle", "next": 2 }],
+      "question": {
+        "question": "1.What was Gandhi’s primary philosophy?",
+        "options": ["A. Nonviolence", "B. Violent resistance"],
+        "answer": "A. Nonviolence"
+      }
+    },
+    {
+      "id": 2,
+      "text": "Gandhi organized the Salt March in 1930 to protest against British salt taxes, a pivotal moment in India's independence movement.",
+      "choices": [{ "option": "Organize the Salt March", "next": 3 }],
+      "question": {
+        "question": "2.What was the purpose of the Salt March?",
+        "options": ["A. Protest against salt taxes", "B. Fight for social rights"],
+        "answer": "A. Protest against salt taxes"
+      }
+    },
+    {
+      "id": 3,
+      "text": "Gandhi’s leadership inspired millions to join the struggle for independence through peaceful methods, gaining global recognition.",
+      "choices": [{ "option": "Inspire millions for independence", "next": 4 }],
+      "question": {
+        "question": "3.How did Gandhi inspire people globally?",
+        "options": ["A. By promoting violence", "B. By advocating nonviolence"],
+        "answer": "B. By advocating nonviolence"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Mahatma Gandhi’s legacy is remembered not only for freeing India but for his principles of peace, tolerance, and unity.",
+      "choices": [{ "option": "Promote Gandhi's principles", "next": 5 }],
+      "question": {
+        "question": "4.What is Gandhi remembered for?",
+        "options": ["A. Nonviolence and peace", "B. Military leadership"],
+        "answer": "A. Nonviolence and peace"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Gandhi’s efforts toward peaceful independence have inspired civil rights movements worldwide, from the United States to South Africa.",
+      "choices": [],
+      "question": {
+        "question": "5.How has Gandhi’s legacy impacted the world?",
+        "options": ["A. Promoting peaceful movements", "B. Encouraging armed struggles"],
+        "answer": "A. Promoting peaceful movements"
+      }
+    }
+  ]
+}

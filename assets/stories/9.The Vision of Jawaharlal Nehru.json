@@ -1,0 +1,57 @@
+{
+  "id": 9,
+  "title": "9.The Vision of Jawaharlal Nehru",
+  "description": "The story of Jawaharlal Nehru, India’s first Prime Minister, who shaped the nation’s democratic vision post-independence.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Jawaharlal Nehru was a visionary leader who laid the foundation for modern India, advocating for democracy, secularism, and economic development.",
+      "choices": [{ "option": "Adopt a democratic vision", "next": 2 }],
+      "question": {
+        "question": "1.What vision did Jawaharlal Nehru have for India?",
+        "options": ["A. Monarchy", "B. Democracy and secularism"],
+        "answer": "B. Democracy and secularism"
+      }
+    },
+    {
+      "id": 2,
+      "text": "Nehru's leadership helped establish India as a republic, with a strong emphasis on education, science, and technology.",
+      "choices": [{ "option": "Focus on education and technology", "next": 3 }],
+      "question": {
+        "question": "2.What areas did Nehru emphasize for India's development?",
+        "options": ["A. Education, science, and technology", "B. Military expansion"],
+        "answer": "A. Education, science, and technology"
+      }
+    },
+    {
+      "id": 3,
+      "text": "Under Nehru, India became a founding member of the Non-Aligned Movement, striving to remain neutral in the Cold War.",
+      "choices": [{ "option": "Promote Non-Aligned Movement", "next": 4 }],
+      "question": {
+        "question": "3.What international movement did Nehru promote?",
+        "options": ["A. Non-Aligned Movement", "B. NATO"],
+        "answer": "A. Non-Aligned Movement"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Nehru’s legacy is still felt today through his policies, which helped shape India into a modern, industrialized nation.",
+      "choices": [{ "option": "Build a modern India", "next": 5 }],
+      "question": {
+        "question": "4.What is Nehru remembered for?",
+        "options": ["A. Democratic principles", "B. Military dominance"],
+        "answer": "A. Democratic principles"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Nehru’s vision for India continues to guide the nation in its pursuit of peace, prosperity, and equality.",
+      "choices": [],
+      "question": {
+        "question": "5.What impact did Nehru have on India’s future?",
+        "options": ["A. Shaping India’s democratic future", "B. Leading military conquests"],
+        "answer": "A. Shaping India’s democratic future"
+      }
+    }
+  ]
+}

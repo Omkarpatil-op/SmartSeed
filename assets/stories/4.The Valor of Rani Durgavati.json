@@ -1,0 +1,57 @@
+{
+  "id": 4,
+  "title": "4.The Valor of Rani Durgavati",
+  "description": "The story of a courageous queen who fiercely defended her kingdom from invasion.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Rani Durgavati, the queen of Gondwana, was a skilled warrior, trained to protect her kingdom from invaders. Her leadership was unmatched.",
+      "choices": [{ "option": "Train as a warrior", "next": 2 }],
+      "question": {
+        "question": "1.How was Rani Durgavati trained?",
+        "options": ["A. As a diplomat", "B. As a warrior"],
+        "answer": "B. As a warrior"
+      }
+    },
+    {
+      "id": 2,
+      "text": "When the Mughal emperor Akbar's army attacked, Rani Durgavati led her forces with great valor, protecting her people fiercely.",
+      "choices": [{ "option": "Fight the Mughal army", "next": 3 }],
+      "question": {
+        "question": "2.Whom did Rani Durgavati defend her kingdom from?",
+        "options": ["A. Mughals", "B. Rajputs"],
+        "answer": "A. Mughals"
+      }
+    },
+    {
+      "id": 3,
+      "text": "Despite her best efforts, Rani Durgavati was eventually defeated, but she chose to die with honor rather than surrender.",
+      "choices": [{ "option": "Die with honor", "next": 4 }],
+      "question": {
+        "question": "3.What was Rani Durgavati’s fate after battle?",
+        "options": ["A. She surrendered", "B. She died with honor"],
+        "answer": "B. She died with honor"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Her sacrifice inspired future generations to fight for freedom, and she remains a symbol of bravery and resistance.",
+      "choices": [{ "option": "Honor her legacy", "next": 5 }],
+      "question": {
+        "question": "4.What did Rani Durgavati’s sacrifice inspire?",
+        "options": ["A. Peace", "B. Resistance and bravery"],
+        "answer": "B. Resistance and bravery"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Rani Durgavati is remembered as one of the greatest warrior queens in Indian history, her bravery etched in the annals of time.",
+      "choices": [],
+      "question": {
+        "question": "5.What is Rani Durgavati remembered as?",
+        "options": ["A. A ruler", "B. A warrior queen"],
+        "answer": "B. A warrior queen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 6,
+  "title": "6.The Bravery of Laxmi Bai",
+  "description": "The inspiring story of Rani Laxmi Bai, the Queen of Jhansi, who fought for her kingdom during the Indian Rebellion of 1857.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Laxmi Bai was born into a noble family and was trained in martial arts, preparing to defend her kingdom from any threat.",
+      "choices": [{ "option": "Train in martial arts", "next": 2 }],
+      "question": {
+        "question": "1.How was Laxmi Bai trained?",
+        "options": ["A. As a warrior", "B. As a scholar"],
+        "answer": "A. As a warrior"
+      }
+    },
+    {
+      "id": 2,
+      "text": "During the rebellion of 1857, Laxmi Bai took command of the forces of Jhansi and fought against the British with unwavering courage.",
+      "choices": [{ "option": "Lead the rebellion", "next": 3 }],
+      "question": {
+        "question": "2.What role did Laxmi Bai take during the rebellion?",
+        "options": ["A. Leader of Jhansi", "B. Diplomat for the British"],
+        "answer": "A. Leader of Jhansi"
+      }
+    },
+    {
+      "id": 3,
+      "text": "Laxmi Bai’s leadership was instrumental in holding off the British forces, but eventually, she had to flee when Jhansi fell.",
+      "choices": [{ "option": "Flee Jhansi", "next": 4 }],
+      "question": {
+        "question": "3.What did Laxmi Bai do when Jhansi fell?",
+        "options": ["A. Surrendered", "B. Fled the city"],
+        "answer": "B. Fled the city"
+      }
+    },
+    {
+      "id": 4,
+      "text": "In battle, Laxmi Bai fought valiantly on horseback, defending her kingdom until her last breath.",
+      "choices": [{ "option": "Fight until death", "next": 5 }],
+      "question": {
+        "question": "4.What happened during Laxmi Bai's final battle?",
+        "options": ["A. She was captured", "B. She died in battle"],
+        "answer": "B. She died in battle"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Laxmi Bai is remembered as a symbol of courage and resistance, inspiring countless people to fight for their freedom.",
+      "choices": [],
+      "question": {
+        "question": "5.What is Laxmi Bai remembered for?",
+        "options": ["A. Her leadership", "B. Her bravery"],
+        "answer": "B. Her bravery"
+      }
+    }
+  ]
+}

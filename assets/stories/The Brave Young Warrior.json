@@ -1,0 +1,67 @@
+{
+  "id": 1,
+  "title": "The Brave Young Warrior",
+  "description": "A young boy named Arjun dreams of becoming a warrior and protecting his kingdom.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Arjun boy wanted great warrior.",
+      "choices": [{ "option": "Keep practicing", "next": 2 }],
+      "question": {
+        "question": "What did Arjun want to be?",
+        "options": ["A. A warrior", "B. A farmer"],
+        "answer": "A. A warrior"
+      }
+    },
+    {
+      "id": 2,
+      "text": "The king chose Arjun to protect the kingdom.",
+      "choices": [{ "option": "Help protect the kingdom", "next": 3 }],
+      "question": {
+        "question": "What did the king ask Arjun to do?",
+        "options": ["A. Protect the kingdom", "B. Build a house"],
+        "answer": "A. Protect the kingdom"
+      }
+    },
+    {
+      "id": 3,
+      "text": "Arjun and his friends fought bravely in a battle.",
+      "choices": [{ "option": "Be brave and keep fighting", "next": 4 }],
+      "question": {
+        "question": "What did Arjun do in the battle?",
+        "options": ["A. Fought bravely", "B. Ran away"],
+        "answer": "A. Fought bravely"
+      }
+    },
+    {
+      "id": 4,
+      "text": "The king made Arjun the leader of all the warriors.",
+      "choices": [{ "option": "Thank the king", "next": 5 }],
+      "question": {
+        "question": "What did the king do?",
+        "options": ["A. Made Arjun the leader", "B. Gave Arjun gold"],
+        "answer": "A. Made Arjun the leader"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Arjun led his army and won a big war.",
+      "choices": [{ "option": "Lead the army to victory", "next": 6 }],
+      "question": {
+        "question": "What was Arjun’s biggest victory?",
+        "options": ["A. Winning the big war", "B. Finding treasure"],
+        "answer": "A. Winning the big war"
+      }
+    },
+    {
+      "id": 6,
+      "text": "Everyone remembered Arjun as a brave hero.",
+      "choices": [],
+      "question": {
+        "question": "How did people remember Arjun?",
+        "options": ["A. As a brave hero", "B. As a king"],
+        "answer": "A. As a brave hero"
+      }
+    }
+  ]
+}

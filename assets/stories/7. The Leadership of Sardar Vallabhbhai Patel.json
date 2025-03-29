@@ -1,0 +1,57 @@
+{
+  "id": 7,
+  "title": "7.The Leadership of Sardar Vallabhbhai Patel",
+  "description": "The remarkable story of Sardar Vallabhbhai Patel, the Iron Man of India, who unified the nation post-independence.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Sardar Vallabhbhai Patel was born in a small village in Gujarat, but he rose to become one of the most prominent leaders in India's fight for independence.",
+      "choices": [{ "option": "Join the freedom struggle", "next": 2 }],
+      "question": {
+        "question": "1.What led to Sardar Patel’s prominence?",
+        "options": ["A. His social work", "B. His leadership in the freedom struggle"],
+        "answer": "B. His leadership in the freedom struggle"
+      }
+    },
+    {
+      "id": 2,
+      "text": "Patel played a key role in the Bardoli Satyagraha, where his leadership helped peasants fight against unfair taxation by the British.",
+      "choices": [{ "option": "Lead the Bardoli Satyagraha", "next": 3 }],
+      "question": {
+        "question": "2.What was Sardar Patel’s role in Bardoli Satyagraha?",
+        "options": ["A. Negotiator", "B. Leader"],
+        "answer": "B. Leader"
+      }
+    },
+    {
+      "id": 3,
+      "text": "After India gained independence, Sardar Patel was instrumental in integrating over 500 princely states into the Indian Union.",
+      "choices": [{ "option": "Unify the princely states", "next": 4 }],
+      "question": {
+        "question": "3.What was Sardar Patel’s role after independence?",
+        "options": ["A. Unifying princely states", "B. Becoming the first president"],
+        "answer": "A. Unifying princely states"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Through his determination, Sardar Patel earned the title of ‘Iron Man of India’ for his efforts in building a united India.",
+      "choices": [{ "option": "Unite India", "next": 5 }],
+      "question": {
+        "question": "4.What title was given to Sardar Patel?",
+        "options": ["A. Iron Man of India", "B. Father of the Nation"],
+        "answer": "A. Iron Man of India"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Sardar Patel’s legacy continues to inspire generations of leaders and citizens, his vision of a united India still standing strong.",
+      "choices": [],
+      "question": {
+        "question": "5.What is Sardar Patel remembered for?",
+        "options": ["A. His unity efforts", "B. His economic policies"],
+        "answer": "A. His unity efforts"
+      }
+    }
+  ]
+}

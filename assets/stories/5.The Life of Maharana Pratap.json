@@ -1,0 +1,57 @@
+{
+  "id": 5,
+  "title": "5.The Life of Maharana Pratap",
+  "description": "The story of a courageous king who fought against the Mughal invasion to protect his homeland.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Maharana Pratap was raised in the battlefield. From a young age, he trained rigorously in the art of war, preparing to defend Mewar.",
+      "choices": [{ "option": "Train as a warrior", "next": 2 }],
+      "question": {
+        "question": "1.What did Maharana Pratap focus on from an early age?",
+        "options": ["A. Diplomacy", "B. Warfare"],
+        "answer": "B. Warfare"
+      }
+    },
+    {
+      "id": 2,
+      "text": "When the Mughal forces led by Akbar threatened Mewar, Maharana Pratap refused to bow down and led his forces into battle.",
+      "choices": [{ "option": "Defend Mewar", "next": 3 }],
+      "question": {
+        "question": "2.Whom did Maharana Pratap resist?",
+        "options": ["A. Mughals", "B. Rajputs"],
+        "answer": "A. Mughals"
+      }
+    },
+    {
+      "id": 3,
+      "text": "Despite being outnumbered, Maharana Pratap’s strategies were brilliant. He fought valiantly, never surrendering to the enemy.",
+      "choices": [{ "option": "Fight with strategy", "next": 4 }],
+      "question": {
+        "question": "3.How did Maharana Pratap approach battle?",
+        "options": ["A. With strength", "B. With strategy"],
+        "answer": "B. With strategy"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Though he faced many hardships, Maharana Pratap's resilience made him an icon of Indian resistance, remembered forever in history.",
+      "choices": [{ "option": "Honor his legacy", "next": 5 }],
+      "question": {
+        "question": "4.What did Maharana Pratap's legacy represent?",
+        "options": ["A. Resilience", "B. Surrender"],
+        "answer": "A. Resilience"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Maharana Pratap's courage, pride, and commitment to his people continue to inspire generations to stand for their land and freedom.",
+      "choices": [],
+      "question": {
+        "question": "5.What is Maharana Pratap remembered for?",
+        "options": ["A. His wisdom", "B. His bravery"],
+        "answer": "B. His bravery"
+      }
+    }
+  ]
+}
