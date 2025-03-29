@@ -1,0 +1,141 @@
+{
+    "1": [
+      {
+        "id": 1,
+        "text": "What is 5 + 3?",
+        "options": ["6", "7", "8", "9"],
+        "correctAnswer": "8",
+        "difficulty": 1
+      },
+      {
+        "id": 2,
+        "text": "Calculate 27 + 15",
+        "options": ["40", "42", "44", "45"],
+        "correctAnswer": "42",
+        "difficulty": 2
+      },
+      {
+        "id": 3,
+        "text": "Solve 154 + 289",
+        "options": ["443", "445", "448", "449"],
+        "correctAnswer": "443",
+        "difficulty": 3
+      }
+    ],
+    "2": [
+      {
+        "id": 1,
+        "text": "What is 10 - 4?",
+        "options": ["5", "6", "7", "8"],
+        "correctAnswer": "6",
+        "difficulty": 1
+      },
+      {
+        "id": 2,
+        "text": "Calculate 50 - 17",
+        "options": ["33", "32", "34", "35"],
+        "correctAnswer": "33",
+        "difficulty": 2
+      },
+      {
+        "id": 3,
+        "text": "Solve 100 - 57",
+        "options": ["42", "43", "44", "45"],
+        "correctAnswer": "43",
+        "difficulty": 3
+      }
+    ],
+    "3": [
+      {
+        "id": 1,
+        "text": "What is 3 × 4?",
+        "options": ["10", "11", "12", "13"],
+        "correctAnswer": "12",
+        "difficulty": 1
+      },
+      {
+        "id": 2,
+        "text": "Calculate 7 × 8",
+        "options": ["54", "55", "56", "57"],
+        "correctAnswer": "56",
+        "difficulty": 2
+      },
+      {
+        "id": 3,
+        "text": "Solve 12 × 12",
+        "options": ["142", "143", "144", "145"],
+        "correctAnswer": "144",
+        "difficulty": 3
+      }
+    ],
+    "4": [
+      {
+        "id": 1,
+        "text": "What is 8 ÷ 2?",
+        "options": ["2", "3", "4", "5"],
+        "correctAnswer": "4",
+        "difficulty": 1
+      },
+      {
+        "id": 2,
+        "text": "Calculate 36 ÷ 6",
+        "options": ["5", "6", "7", "8"],
+        "correctAnswer": "6",
+        "difficulty": 2
+      },
+      {
+        "id": 3,
+        "text": "Solve 81 ÷ 9",
+        "options": ["7", "8", "9", "10"],
+        "correctAnswer": "9",
+        "difficulty": 3
+      }
+    ],
+    "5": [
+      {
+        "id": 1,
+        "text": "What is 2^3?",
+        "options": ["6", "7", "8", "9"],
+        "correctAnswer": "8",
+        "difficulty": 1
+      },
+      {
+        "id": 2,
+        "text": "What is 3^2?",
+        "options": ["7", "8", "9", "10"],
+        "correctAnswer": "9",
+        "difficulty": 2
+      },
+      {
+        "id": 3,
+        "text": "Calculate 2^5",
+        "options": ["16", "32", "64", "128"],
+        "correctAnswer": "32",
+        "difficulty": 3
+      }
+    ],
+    "6": [
+      {
+        "id": 1,
+        "text": "What is the square root of 9?",
+        "options": ["2", "3", "4", "5"],
+        "correctAnswer": "3",
+        "difficulty": 1
+      },
+      {
+        "id": 2,
+        "text": "Calculate the square root of 16",
+        "options": ["2", "3", "4", "5"],
+        "correctAnswer": "4",
+        "difficulty": 2
+      },
+      {
+        "id": 3,
+        "text": "Solve for the square root of 81",
+        "options": ["7", "8", "9", "10"],
+        "correctAnswer": "9",
+        "difficulty": 3
+      }
+    ]
+  }
+  
