@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644080234346",
+    "project_id": "smartseed-9422b",
+    "storage_bucket": "smartseed-9422b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644080234346:android:e6d305f5e66853b1193f13",
+        "android_client_info": {
+          "package_name": "com.example.smartseed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZdCZogyeOWcPjz8Zw11ZnteWp3H9SxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

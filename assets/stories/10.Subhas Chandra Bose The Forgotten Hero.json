@@ -1,0 +1,57 @@
+{
+  "id": 10,
+  "title": "10.Subhas Chandra Bose: The Forgotten Hero",
+  "description": "The story of Subhas Chandra Bose, a fierce nationalist and the leader of the Indian National Army.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Subhas Chandra Bose was a prominent leader in the Indian independence movement, known for his radical approach to gaining freedom from British rule.",
+      "choices": [{ "option": "Join the freedom movement", "next": 2 }],
+      "question": {
+        "question": "1.What was Subhas Chandra Bose’s approach to independence?",
+        "options": ["A. Peaceful resistance", "B. Armed struggle"],
+        "answer": "B. Armed struggle"
+      }
+    },
+    {
+      "id": 2,
+      "text": "Bose formed the Indian National Army (INA) to fight against the British during World War II, receiving support from countries like Japan and Germany.",
+      "choices": [{ "option": "Form the Indian National Army", "next": 3 }],
+      "question": {
+        "question": "2.What was the purpose of the Indian National Army?",
+        "options": ["A. To fight for independence", "B. To aid the British Army"],
+        "answer": "A. To fight for independence"
+      }
+    },
+    {
+      "id": 3,
+      "text": "Subhas Chandra Bose’s leadership inspired millions, but he remains a controversial figure in India's history due to his collaboration with Axis powers.",
+      "choices": [{ "option": "Inspire millions", "next": 4 }],
+      "question": {
+        "question": "3.How is Subhas Chandra Bose viewed in history?",
+        "options": ["A. A controversial hero", "B. A peaceful leader"],
+        "answer": "A. A controversial hero"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Bose’s famous slogan, ‘Give me blood and I will give you freedom,’ continues to resonate as a symbol of resistance against colonialism.",
+      "choices": [{ "option": "Promote independence", "next": 5 }],
+      "question": {
+        "question": "4.What slogan is Subhas Chandra Bose famous for?",
+        "options": ["A. Give me blood and I will give you freedom", "B. Quit India"],
+        "answer": "A. Give me blood and I will give you freedom"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Though Bose did not live to see India’s independence, his contributions to the freedom struggle are remembered with respect.",
+      "choices": [],
+      "question": {
+        "question": "5.What is Subhas Chandra Bose remembered for?",
+        "options": ["A. Radical leadership", "B. Nonviolent protests"],
+        "answer": "A. Radical leadership"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1,
+  "title": "1.The Rise of a Warrior",
+  "description": "The journey of a young warrior who fights to protect his kingdom and fulfill his destiny.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Since childhood, Arjun dreamt of becoming a great warrior. He trained tirelessly, preparing for the day he would defend his kingdom.",
+      "choices": [{ "option": "Train to become a warrior", "next": 2 }],
+      "question": {
+        "question": "1.What was Arjun’s dream?",
+        "options": ["A. To be a warrior", "B. To be a merchant"],
+        "answer": "A. To be a warrior"
+      }
+    },
+    {
+      "id": 2,
+      "text": "After years of training, Arjun was chosen to lead a battalion. His first mission was to protect the kingdom’s border from invaders.",
+      "choices": [{ "option": "Lead the battalion", "next": 3 }],
+      "question": {
+        "question": "2.What was Arjun’s first mission?",
+        "options": ["A. Protect the border", "B.Conquer a new land"],
+        "answer": "A. Protect the border"
+      }
+    },
+    {
+      "id": 3,
+      "text": "During a fierce battle, Arjun and his warriors fought bravely. Though outnumbered, they managed to push back the invaders.",
+      "choices": [{ "option": "Continue fighting", "next": 4 }],
+      "question": {
+        "question": "3.What happened in the battle?",
+        "options": ["A. They won", "B.They lost"],
+        "answer": "A. They won"
+      }
+    },
+    {
+      "id": 4,
+      "text": "After his victory, Arjun was honored by the king and given command of the royal army.",
+      "choices": [{ "option": "Accept the command", "next": 5 }],
+      "question": {
+        "question": "4.What honor did Arjun receive?",
+        "options": ["A. Command of the army", "B. A treasure"],
+        "answer": "A. Command of the army"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Years later, when a great war threatened the kingdom, Arjun led his army with courage. His leadership ensured a historic victory.",
+      "choices": [{ "option": "Lead the army to victory", "next": 6 }],
+      "question": {
+        "question": "5.What was Arjun’s greatest achievement?",
+        "options": ["A. Winning the war", "B. Becoming the king"],
+        "answer": "A. Winning the war"
+      }
+    },
+    {
+      "id": 6,
+      "text": "Arjun’s bravery and wisdom made him a legend. His story inspired generations to come.",
+      "choices": [],
+      "question": {
+        "question": "6.What was Arjun remembered as?",
+        "options": ["A. A wise leader", "B. A wealthy king"],
+        "answer": "A. A wise leader"
+      }
+    }
+  ]
+}

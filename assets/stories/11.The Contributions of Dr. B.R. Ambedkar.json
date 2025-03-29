@@ -1,0 +1,57 @@
+{
+  "id": 11,
+  "title": "11.The Contributions of Dr. B.R. Ambedkar",
+  "description": "The journey of Dr. B.R. Ambedkar, the architect of India's Constitution and a fierce advocate for social justice.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Dr. B.R. Ambedkar was a renowned social reformer, educator, and the principal architect of the Indian Constitution.",
+      "choices": [{ "option": "Contribute to the Constitution", "next": 2 }],
+      "question": {
+        "question": "1.What was Dr. Ambedkar’s role in India’s history?",
+        "options": ["A. Advocate for social justice", "B. Prime Minister of India"],
+        "answer": "A. Advocate for social justice"
+      }
+    },
+    {
+      "id": 2,
+      "text": "Ambedkar played a pivotal role in ensuring that the Constitution of India guaranteed rights for the oppressed and marginalized sections of society.",
+      "choices": [{ "option": "Fight for social justice", "next": 3 }],
+      "question": {
+        "question": "2.What did Ambedkar ensure in the Indian Constitution?",
+        "options": ["A. Equality and justice for all", "B. Favoritism for the upper caste"],
+        "answer": "A. Equality and justice for all"
+      }
+    },
+    {
+      "id": 3,
+      "text": "Dr. Ambedkar is also known for his work in promoting education and fighting for the rights of Dalits, women, and other marginalized groups.",
+      "choices": [{ "option": "Promote education and rights", "next": 4 }],
+      "question": {
+        "question": "3.What social causes did Ambedkar support?",
+        "options": ["A. Education and Dalit rights", "B. Religious conservatism"],
+        "answer": "A. Education and Dalit rights"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Ambedkar's legacy continues to inspire movements for social justice and equality in India and around the world.",
+      "choices": [{ "option": "Inspire social movements", "next": 5 }],
+      "question": {
+        "question": "4.What is Dr. Ambedkar remembered for?",
+        "options": ["A. His contributions to the Constitution", "B. His military achievements"],
+        "answer": "A. His contributions to the Constitution"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Dr. Ambedkar's efforts have made a significant impact on the social fabric of India, promoting fairness and dignity for all citizens.",
+      "choices": [],
+      "question": {
+        "question": "5.What impact did Ambedkar have on Indian society?",
+        "options": ["A. Promoting fairness and dignity", "B. Fostering inequality"],
+        "answer": "A. Promoting fairness and dignity"
+      }
+    }
+  ]
+}

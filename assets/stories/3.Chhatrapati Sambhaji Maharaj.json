@@ -1,0 +1,70 @@
+{
+  "id": 3,
+  "title": "3. The Rise of Chhatrapati Sambhaji Maharaj",
+  "description": "The story of a brave and valiant king who fought to protect his kingdom, family, and legacy.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Sambhaji Maharaj was trained by his father, Chhatrapati Shivaji Maharaj.",
+      "choices": [{ "option": "Train under Shivaji Maharaj", "next": 2 }],
+      "question": {
+        "question": "1. What was Sambhaji Maharaj’s early training?",
+        "options": ["A. To become a king", "B. To become a warrior"],
+        "answer": "B. To become a warrior"
+      }
+    },
+    {
+      "id": 2,
+      "text": "Sambhaji Maharaj proved his bravery in the Battle of Purandar.",
+      "choices": [{ "option": "Fight against the Mughal army", "next": 3 }],
+      "question": {
+        "question": "2. What was Sambhaji Maharaj’s first major battle?",
+        "options": ["A. Battle of Panipat", "B. Battle of Purandar"],
+        "answer": "B. Battle of Purandar"
+      }
+    },
+    {
+      "id": 3,
+      "text": "After Shivaji Maharaj’s death, Sambhaji Maharaj became king.",
+      "choices": [{ "option": "Defend the kingdom", "next": 4 }],
+      "question": {
+        "question": "3. What challenge did Sambhaji Maharaj face after becoming king?",
+        "options": ["A. Defending the empire", "B. Expanding the kingdom"],
+        "answer": "A. Defending the empire"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Sambhaji Maharaj was captured by the Mughals but never betrayed his kingdom.",
+      "choices": [{ "option": "Endure the torture", "next": 5 }],
+      "question": {
+        "question": "4. What happened when Sambhaji Maharaj was captured?",
+        "options": ["A. He betrayed the Marathas", "B. He endured the torture"],
+        "answer": "B. He endured the torture"
+      }
+    },
+    {
+      "id": 5,
+      "text": "His sacrifice inspired a rebellion against the Mughals.",
+      "choices": [{ "option": "Honor his legacy", "next": 6 }],
+      "question": {
+        "question": "5. What was the result of Sambhaji Maharaj’s capture?",
+        "options": [
+          "A. His death led to rebellion",
+          "B. His capture weakened the Marathas"
+        ],
+        "answer": "A. His death led to rebellion"
+      }
+    },
+    {
+      "id": 6,
+      "text": "Sambhaji Maharaj is remembered as a fearless warrior and noble king.",
+      "choices": [],
+      "question": {
+        "question": "6. What is Sambhaji Maharaj remembered as?",
+        "options": ["A. A great warrior", "B. A noble king"],
+        "answer": "A. A great warrior"
+      }
+    }
+  ]
+}

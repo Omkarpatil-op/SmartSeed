@@ -1,0 +1,57 @@
+{
+  "id": 12,
+  "title": "12.Indira Gandhi: India’s First Female Prime Minister",
+  "description": "A look into the life and legacy of Indira Gandhi, India's first and only female Prime Minister.",
+  "content": [
+    {
+      "id": 1,
+      "text": "Indira Gandhi was the first woman to serve as the Prime Minister of India, known for her strong leadership during critical times.",
+      "choices": [{ "option": "Lead the country during crises", "next": 2 }],
+      "question": {
+        "question": "1.What was Indira Gandhi known for?",
+        "options": ["A. Leadership during crises", "B. Peaceful governance"],
+        "answer": "A. Leadership during crises"
+      }
+    },
+    {
+      "id": 2,
+      "text": "Gandhi played a crucial role in India’s victory in the 1971 war against Pakistan, leading to the creation of Bangladesh.",
+      "choices": [{ "option": "Lead India to victory in war", "next": 3 }],
+      "question": {
+        "question": "2.What major achievement occurred under Indira Gandhi’s leadership?",
+        "options": ["A. Creation of Bangladesh", "B. Indo-China peace agreement"],
+        "answer": "A. Creation of Bangladesh"
+      }
+    },
+    {
+      "id": 3,
+      "text": "Her leadership during the Emergency period in 1975-77 remains a controversial chapter in India’s history.",
+      "choices": [{ "option": "Impose the Emergency", "next": 4 }],
+      "question": {
+        "question": "3.What is controversial about Indira Gandhi's leadership?",
+        "options": ["A. The Emergency period", "B. Her peaceful foreign policies"],
+        "answer": "A. The Emergency period"
+      }
+    },
+    {
+      "id": 4,
+      "text": "Indira Gandhi's legacy continues to shape Indian politics, especially in terms of central authority and national security.",
+      "choices": [{ "option": "Shape Indian politics", "next": 5 }],
+      "question": {
+        "question": "4.What is Indira Gandhi remembered for?",
+        "options": ["A. Her leadership in national security", "B. Her support for local autonomy"],
+        "answer": "A. Her leadership in national security"
+      }
+    },
+    {
+      "id": 5,
+      "text": "Indira Gandhi’s contributions to India’s growth and her place in history as a strong female leader remain a subject of admiration and debate.",
+      "choices": [],
+      "question": {
+        "question": "5.What is Indira Gandhi’s lasting legacy?",
+        "options": ["A. Her strong leadership", "B. Her economic policies"],
+        "answer": "A. Her strong leadership"
+      }
+    }
+  ]
+}
