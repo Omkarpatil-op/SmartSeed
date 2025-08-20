@@ -1,6 +1,6 @@
 # SmartSeed 🌱📚
 
-SmartSeed is an AI-powered, gamified learning app designed to make math and reading fun and easy for young learners. With personalized study plans, interactive exercises, and engaging gameplay, the app helps children enhance their skills in math and reading while fostering a love for learning.
+SmartSeed is an AI-powered, gamified learning app that helps kids improve math and reading skills through interactive exercises, personalized study plans, and a playful, engaging experience—while giving parents tools to track progress and support their child’s growth.
 
 ---
 
